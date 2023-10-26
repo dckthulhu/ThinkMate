@@ -229,7 +229,7 @@
         />
       {:else}
         <div class="filler lg:hidden" />
-        <Logo color={appConfig.primary_color} className="-mt-2 ml-2 mr-10" size={20} />
+        <img src="/nomie-words.svg" alt="Enov-1" />
         <div class="filler" />
       {/if}
 
