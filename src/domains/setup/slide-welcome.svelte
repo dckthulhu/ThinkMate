@@ -6,19 +6,19 @@
 
 <div class="flex flex-col px-6 py-4 min-h-fill justify-center items-center -mt-4">
   <div class="max-w-xl flex items-center justify-center flex-col space-y-4">
-    <Logo size={32} />
+    <img src="/nomie-words.svg" alt="Enov-1" />
     {#if !$Prefs.storageType}
       <p class="text-2xl leading-none font-extrabold  text-center md:text-3xl text-black dark:text-white">
         Daily Journal for short attention spans.
       </p>
     {:else}
       <p class="text-2xl leading-none font-extrabold  text-center md:text-3xl text-black dark:text-white">
-        👋 Nomie has been updated.
+        👋 ThinkMate has been updated.
       </p>
     {/if}
     <div>
       <p style="font-size:0.6rem" class="mt-4  lg:text-sm  text-center text-gray-700 dark:text-gray-400">
-        Nomie is a super fast, and super private way to journal, collect your life's data, and reflect on your life's
+        ThinkMate is a super fast, and super private way to journal, collect your life's data, and reflect on your life's
         direction.
       </p>
       <p style="font-size:0.6rem" class="mt-1  lg:text-sm  text-center text-gray-700 dark:text-gray-400">
