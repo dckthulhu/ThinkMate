@@ -1,6 +1,6 @@
 export default {
-  name: 'Nomie 6 dev',
-  short_name: 'Nomie 6',
+  name: 'Thinkmate Dev',
+  short_name: 'ThinkMate',
   start_url: '/',
   description: 'Private Life Tracking',
   orientation: 'portrait',
